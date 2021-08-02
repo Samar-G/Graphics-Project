@@ -2,9 +2,8 @@
 2D and 3D graphics.
 Ellipse, Circle, Rectangle, and more implementaion for 2D
 Car using OpenGL and added functionalities 
-#2D Requirments:
+<h4>2D Requirments: </h4>
 1.	Implement 2D package which contains:
-
     Drop down list for the following Requirements:
     a.	Change the background of window to be white
     b.	Try to change the shape of your window mouse
@@ -19,7 +18,7 @@ Car using OpenGL and added functionalities
     k.	Filling Circle with lines after taking filling quarter from user
     l.	Ellipse Algorithms [Direct and polar] Self study
 
-#3D Requirments:
+<h4>3D Requirments:</h4>
     a. Try to build 3-D Scene using OpenGL Package
     b. Build A Simple Garden Background contains some of 3-D objects
     c. Build 3-D car
@@ -28,3 +27,6 @@ Car using OpenGL and added functionalities
     f. Use keyboard click rotate car about Y-axis
     g. Use keyboard clicks to zoom in and out from scene
     h. Control camera coordinates to see 3D scene from different directions
+
+<h3> Credits: </h3>
+Mohamed Sayed | Samar Ghoneim | Toka Mohamed
