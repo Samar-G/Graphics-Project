@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1610742962 source:c:\users\electronica\desktop\cb_projects\graphics project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<Shape.h>
+
+1610740949 source:c:\users\electronica\desktop\cb_projects\graphics project\src\shape.cpp
+	"Shape.h"
+
+1610408434 c:\users\electronica\desktop\cb_projects\graphics project\include\shape.h
+	<iostream>
+	<cmath>
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<vector>
+	<fstream>
+
+1610740949 source:e:\bioninformatics\year3,sem1\graphics\project\final!!\graphics project\src\shape.cpp
+	"Shape.h"
+
+1610408434 e:\bioninformatics\year3,sem1\graphics\project\final!!\graphics project\include\shape.h
+	<iostream>
+	<cmath>
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<vector>
+	<fstream>
+
+1610743285 source:e:\bioninformatics\year3,sem1\graphics\project\final!!\graphics project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<Shape.h>
+
+1610791649 source:e:\bioninformatics\year3,sem1\graphics\project\final!!\graphics project-e\main.cpp
+	<tchar.h>
+	<windows.h>
+	<Shape.h>
+
+1610408434 e:\bioninformatics\year3,sem1\graphics\project\final!!\graphics project-e\include\shape.h
+	<iostream>
+	<cmath>
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<vector>
+	<fstream>
+
