@@ -1,7 +1,7 @@
 # Graphics-Project
 2D and 3D graphics. <br>
 Ellipse, Circle, Rectangle, and more implementaion for 2D<br>
-Car using OpenGL and added functionalities <br>
+Car, Tree, and other 3D objects using OpenGL and added functionalities <br>
 <h4>2D Requirments: </h4><br>
 1.	Implement 2D package which contains:<br>
     Drop down list for the following Requirements:<br>
